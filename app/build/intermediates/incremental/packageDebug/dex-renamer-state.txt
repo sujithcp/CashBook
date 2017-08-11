@@ -1,0 +1,7 @@
+#Fri Aug 11 10:30:51 IST 2017
+base.0=/home/qburst/AndroidStudioProjects/CashBook/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_d01b0acf5c0c4b68f815eb9ad600d51951be5080
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/qburst/AndroidStudioProjects/CashBook/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_24d65f2ddf91ed9073da50cbc1150fde34fc4405/classes.dex
+base.1=/home/qburst/AndroidStudioProjects/CashBook/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_24d65f2ddf91ed9073da50cbc1150fde34fc4405
+file.0=/home/qburst/AndroidStudioProjects/CashBook/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_d01b0acf5c0c4b68f815eb9ad600d51951be5080/classes.dex

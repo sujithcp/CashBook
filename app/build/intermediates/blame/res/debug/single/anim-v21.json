@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/qburst/AndroidStudioProjects/CashBook/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/home/qburst/.android/build-cache/8ef6bf50c4286ccf57aaaaf2e00d8027624d4e21/output/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/home/qburst/AndroidStudioProjects/CashBook/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/home/qburst/.android/build-cache/8ef6bf50c4286ccf57aaaaf2e00d8027624d4e21/output/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    }
+]

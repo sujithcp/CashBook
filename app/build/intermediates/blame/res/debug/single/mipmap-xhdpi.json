@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/qburst/AndroidStudioProjects/CashBook/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher.png",
+        "source": "/home/qburst/AndroidStudioProjects/CashBook/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/qburst/AndroidStudioProjects/CashBook/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher_round.png",
+        "source": "/home/qburst/AndroidStudioProjects/CashBook/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    }
+]
